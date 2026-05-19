@@ -49,3 +49,8 @@ Your submission will be evaluated on the following:
 1. **Mathematical Accuracy:** Correct implementation of the FFT, proper normalization, and accurate formulation of the frequency bins (Nyquist limits).
 2. **Computational Efficiency:** Clean, well-commented Python code without redundant loops.
 3. **Scientific Communication:** The clarity of your data visualizations (labeled axes, correct units) and the depth of your written physical interpretations.
+
+## Data Sources
+*https://github.com/datasets/co2-ppm-daily/blob/main/data/co2-ppm-daily.csv*
+*https://github.com/ThinamXx/TimeSeries_Sunspots/blob/master/sunspots.csv*
+
