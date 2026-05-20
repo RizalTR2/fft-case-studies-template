@@ -53,4 +53,11 @@ Your submission will be evaluated on the following:
 ## Data Sources
 *https://github.com/datasets/co2-ppm-daily/blob/main/data/co2-ppm-daily.csv*
 *https://github.com/ThinamXx/TimeSeries_Sunspots/blob/master/sunspots.csv*
+## Penggunaan Ai
+Pada pengerjaan *case-based* ini, kami menggunakan:
+1. **Gemini 3.1 Pro** untuk *generate* kode Python;
+2. **Claude Sonnet 4.6** untuk mengidentifikasi referensi;
 
+## Penggunaan Aplikasi Lain
+1. **Jupyter Software** untuk ...
+2. **Miniconda** untuk ....
