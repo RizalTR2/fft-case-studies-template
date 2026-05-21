@@ -76,7 +76,7 @@ Sekarang, Mahasiswa B harus meminta secara eksplisit kepada Mahasiswa A untuk me
 * Mereka akan melihat *banner* di bagian atas yang menampilkan perubahan terbaru mereka. Kemudian, mereka mengklik tombol **Compare & pull request** yang berwarna hijau.
 * Mereka memastikan bahwa *base repository* telah mengarah ke repositori milik Mahasiswa A, menulis catatan yang menjelaskan pengajuan mereka, lalu mengklik **Create pull request**.
 
-**Bagian 2: Apa yang Harus Dilakukan oleh Mahasiswa A (Di Situs Web GitHub)**
+### Bagian 2: Apa yang Harus Dilakukan oleh Mahasiswa A (Di Situs Web GitHub)
 
 Pada saat ini, Mahasiswa B masih belum menjadi kontributor. Otoritas penuh kini beralih sepenuhnya kepada Mahasiswa A.
 
