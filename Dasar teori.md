@@ -9,7 +9,7 @@ Astrofisika tidak hanya berfokus pada pengamatan objek langit, tetapi juga pada 
 
 Pada penelitian ini, konsep astrofisika diterapkan pada analisis aktivitas matahari melalui data *sunspot* menggunakan metode *Fast Fourier Transform* (FFT) untuk menentukan periodisitas siklus matahari.
 
-### Matahari Sebagai Objek Astrophysics
+### Matahari Sebagai Objek Astrofisika
 Matahari merupakan salah satu objek utama dalam *astrophysics* karena menjadi bintang terdekat dengan Bumi sehingga dapat diamati secara detail. Menurut Carroll dan Ostlie (2017), astrofisika mempelajari sifat fisik dan fenomena yang terjadi pada benda langit, termasuk aktivitas matahari seperti *sunspot*, medan magnet, dan radiasi. Aktivitas matahari yang berubah secara periodik dapat dianalisis menggunakan metode komputasi dan analisis data astronomi.
 
 ### Aktivitas Magnetik Matahari
@@ -72,7 +72,7 @@ Sinyal periodik merupakan sinyal yang memiliki pola berulang dalam selang waktu 
 
 ---
 
-## E. Fourier Transform dan FFT
+## E. Fourier Transform dan Fast Fourier Transform
 
 ### Konsep Transformasi Fourier
 Transformasi Fourier merupakan metode matematis yang digunakan untuk mengubah suatu sinyal dari domain waktu ke domain frekuensi. Metode ini memungkinkan identifikasi frekuensi-frekuensi yang terkandung dalam suatu sinyal periodik sehingga pola tersembunyi pada data dapat dianalisis (Bracewell, 2000).
@@ -80,7 +80,7 @@ Transformasi Fourier merupakan metode matematis yang digunakan untuk mengubah su
 ### Domain Waktu dan Domain Frekuensi
 Domain waktu menunjukkan perubahan sinyal terhadap waktu, seperti grafik jumlah sunspot terhadap tahun pengamatan. Sedangkan domain frekuensi menunjukkan distribusi frekuensi yang membentuk sinyal tersebut. Dengan mengubah data dari domain waktu ke domain frekuensi, periode dominan suatu sinyal dapat ditentukan dengan lebih mudah.
 
-### FFT sebagai Algoritma Tercepat
+### Fast Fourier Transform sebagai Algoritma Tercepat
 *Fast Fourier Transform* (FFT) merupakan algoritma efisien dari *Discrete Fourier Transform* (DFT) yang digunakan untuk mempercepat proses perhitungan transformasi Fourier. FFT mampu mengurangi waktu komputasi secara signifikan sehingga banyak digunakan dalam analisis sinyal, fisika komputasi, dan *astrophysics* untuk mengolah data dalam jumlah besar.
 
 > **Sumber:**
